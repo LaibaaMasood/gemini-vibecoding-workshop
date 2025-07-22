@@ -1,0 +1,28 @@
+
+
+## Some Fun Prompts to trys
+
+Prompt 1:
+Write a short motivational quote in the style of a tech-savvy Gen Z student preparing for finals.
+
+Prompt 2:
+Generate a calming bedtime story that uses metaphors from space and AI.
+
+Prompt 3:
+Explain quantum computing like I’m five, but add a twist: use emojis and keep it poetic.
+
+Prompt 4:
+Pretend you're an AI life coach. Give 3 tips to boost creativity for someone learning prompt engineering.
+
+Prompt 5:
+Summarize this week’s tech news in a humorous tone and no more than 5 sentences.
+
+Prompt 6:
+Generate a meme caption using just one sentence that relates AI with caffeine addiction.
+
+Prompt 7:
+Create a pitch for a startup that combines AI, therapy, and storytelling.
+
+---
+
+📝 Tip: You can copy-paste these into the notebook or call them dynamically via code for experimentation.
